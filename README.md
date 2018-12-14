@@ -16,7 +16,7 @@ Use any user and password to login.
 Use the following credentials to simulate specific user level:
 
 |      username     | password | otp_code | recapthca_response |
-|:-----------------:|:--------:|:--------:|:------------------:|
-|     1@peatio.tech |  123123  |          |                    |
-|     2@peatio.tech | 12341234 |          |                    |
-|     3@peatio.tech |  123123  |   1234   |                    |
+|:-----------------:|:-------------------------------:|:--------:|:------------------:|
+|     1@peatio.tech |  123123                         |          |                    |
+|     2@peatio.tech | 12341234                        |          |                    |
+|     3@peatio.tech |  eyJpc3MiOiJiYXJvbmciLCJqdGkiO  |   123456 |                    |
